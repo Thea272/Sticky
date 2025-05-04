@@ -1,0 +1,2 @@
+# Sticky
+Position-sticky
